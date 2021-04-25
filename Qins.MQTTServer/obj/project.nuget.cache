@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ui1uEavmqUpTSXMVsG0EepPMrl+fhAjpDkRcjYDJilBNXCen09aTaEysMrvkgY+MkhRY6ciDwGNFRlwD+LG2PA==",
+  "success": true,
+  "projectFilePath": "D:\\2.Code\\Qins.MQTT\\Qins.MQTTServer\\Qins.MQTTServer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccqin\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512",
+    "C:\\Users\\ccqin\\.nuget\\packages\\mqttnet.aspnetcore\\3.0.15\\mqttnet.aspnetcore.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

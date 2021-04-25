@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nshTuhHsIvQ0zIMXqrb4mzrE1O+yyCMIhoATwTPOWx5mL6T9RkMB6qcallkm5DtsJnKpqaCsp0PAnfxmKc0UMw==",
+  "success": true,
+  "projectFilePath": "D:\\2.Code\\Qins.MQTT\\MqttClient\\MqttClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ccqin\\.nuget\\packages\\mqttnet\\3.0.15\\mqttnet.3.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.exe
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.deps.json
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.runtimeconfig.json
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.runtimeconfig.dev.json
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.dll
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MqttClient.pdb
+D:\2.Code\Qins.MQTT\MqttClient\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.csprojAssemblyReference.cache
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.AssemblyInfoInputs.cache
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.AssemblyInfo.cs
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.csproj.CoreCompileInputs.cache
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.csproj.CopyComplete
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.dll
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.pdb
+D:\2.Code\Qins.MQTT\MqttClient\obj\Debug\netcoreapp3.1\MqttClient.genruntimeconfig.cache

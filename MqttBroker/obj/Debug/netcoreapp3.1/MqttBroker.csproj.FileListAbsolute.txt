@@ -1,0 +1,15 @@
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.exe
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.deps.json
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.runtimeconfig.json
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.runtimeconfig.dev.json
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.dll
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MqttBroker.pdb
+D:\2.Code\Qins.MQTT\MqttBroker\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.csprojAssemblyReference.cache
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.AssemblyInfoInputs.cache
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.AssemblyInfo.cs
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.csproj.CoreCompileInputs.cache
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.csproj.CopyComplete
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.dll
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.pdb
+D:\2.Code\Qins.MQTT\MqttBroker\obj\Debug\netcoreapp3.1\MqttBroker.genruntimeconfig.cache

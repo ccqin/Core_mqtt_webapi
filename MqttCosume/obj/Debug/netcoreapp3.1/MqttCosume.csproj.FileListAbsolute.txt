@@ -1,0 +1,15 @@
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.exe
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.deps.json
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.runtimeconfig.json
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.runtimeconfig.dev.json
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.dll
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MqttCosume.pdb
+D:\2.Code\Qins.MQTT\MqttCosume\bin\Debug\netcoreapp3.1\MQTTnet.dll
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.csprojAssemblyReference.cache
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.AssemblyInfoInputs.cache
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.AssemblyInfo.cs
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.csproj.CoreCompileInputs.cache
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.csproj.CopyComplete
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.dll
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.pdb
+D:\2.Code\Qins.MQTT\MqttCosume\obj\Debug\netcoreapp3.1\MqttCosume.genruntimeconfig.cache
